@@ -1,6 +1,6 @@
 # JiboPhotoExport
 
-Export photos (and if possible videos) from your Jibo robot.
+Export photos from your Jibo robot.
 
 All you need to do is run the script, give it your IP, and let it run!
 
