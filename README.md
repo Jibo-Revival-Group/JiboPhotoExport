@@ -1,3 +1,5 @@
+# !!!DISCONTINUED!!!
+
 # JiboPhotoExport
 
 Export photos from your Jibo robot.
